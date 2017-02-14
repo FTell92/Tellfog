@@ -60,10 +60,6 @@ html, body{
 			}
 		}
 	}
-
-	
-	//<a href="javascript:void(0)" class="enough_for_now btn btn-blue enough_block" style="" onclick="fillUp();">FÄRDIG!</a>
-	//newWin.document.getElementById('adverts-pop').click()
 </script>
 <center>
 <h1>Wifog - Automatiserad reklam visare</h1>
